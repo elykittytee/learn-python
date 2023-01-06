@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🖌 Introduction to Computer Science - Learn Python](README.md)
+* [🖌 Introduction to Computer Science - Python](README.md)
 
 ## INTRODUCTION
 
