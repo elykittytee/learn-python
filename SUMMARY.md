@@ -1,15 +1,11 @@
 # Table of contents
 
-* [🖌 Introduction to Computer Science - Python](README.md)
+* [🖌 Introduction to Computer Science - Learn Python](README.md)
 
 ## INTRODUCTION
 
 * [About](introduction/about.md)
 * [Curriculum Overview](introduction/curriculum-overview.md)
-* [Design Principles](introduction/design-principles.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
 
 ## identity
 
