@@ -1,4 +1,4 @@
-# 🖌 Introduction to Computer Science - Python
+# 🖌 Introduction to Computer Science - Learn Python
 
 ## Welcome !
 
