@@ -1,13 +1,5 @@
 # Curriculum Overview
 
-<details>
-
-<summary>Syllabus</summary>
-
-
-
-</details>
-
 ## Introduction to Computer Science Curriculum Map <a href="#introduction-to-computer-science-curriculum-map" id="introduction-to-computer-science-curriculum-map"></a>
 
 [Master Vocabulary](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/ehernandez/my-project/docs/master-vocab.md) - a comprehensive list of all vocab words and no definitions (at least not yet)
@@ -28,8 +20,17 @@ I will not post or share personally created answer keys, starter code, or code s
 
 <details>
 
+<summary>Syllabus</summary>
+
+
+
+</details>
+
+<details>
+
 <summary>Scope &#x26; Sequence</summary>
 
 ## &#x20;<a href="#introduction-to-computer-science-curriculum-map" id="introduction-to-computer-science-curriculum-map"></a>
 
 </details>
+

@@ -6,6 +6,7 @@
 
 * [About](introduction/about.md)
 * [Curriculum Overview](introduction/curriculum-overview.md)
+* [Master Vocabulary](introduction/master-vocabulary.md)
 
 ## identity
 
@@ -18,10 +19,11 @@
 
 * [Overview - Unit 1](unit-1/overview-unit-1.md)
 * [1.01](unit-1/1.01.md)
-* [Logos](unit-1/logos.md)
-* [Colors](unit-1/colors.md)
-* [Typography](unit-1/typography.md)
-* [Imagery](unit-1/imagery.md)
+* [1.02](unit-1/1.02.md)
+* [1.03](unit-1/1.03.md)
+* [1.04](unit-1/1.04.md)
+* [1.05](unit-1/1.05.md)
+* [1.06](unit-1/1.06.md)
 
 ## Components
 
