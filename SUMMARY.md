@@ -16,6 +16,7 @@
 
 ## Unit 1
 
+* [Overview - Unit 1](unit-1/overview-unit-1.md)
 * [1.01](unit-1/1.01.md)
 * [Logos](unit-1/logos.md)
 * [Colors](unit-1/colors.md)
