@@ -1,8 +1,8 @@
+---
+description: Introduction to Computer Science Curriculum Map
+---
+
 # Curriculum Overview
-
-## Introduction to Computer Science Curriculum Map <a href="#introduction-to-computer-science-curriculum-map" id="introduction-to-computer-science-curriculum-map"></a>
-
-[Master Vocabulary](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/ehernandez/my-project/docs/master-vocab.md) - a comprehensive list of all vocab words and no definitions (at least not yet)
 
 #### Pacing Guidance: <a href="#pacing-guidance" id="pacing-guidance"></a>
 

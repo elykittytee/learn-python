@@ -6,6 +6,7 @@
 
 * [About](introduction/about.md)
 * [Curriculum Overview](introduction/curriculum-overview.md)
+* [Standards](introduction/standards.md)
 * [Master Vocabulary](introduction/master-vocabulary.md)
 
 ## identity
