@@ -5,9 +5,11 @@
 ## INTRODUCTION
 
 * [About](introduction/about.md)
-* [Curriculum Overview](introduction/curriculum-overview.md)
-* [Standards](introduction/standards.md)
-* [Master Vocabulary](introduction/master-vocabulary.md)
+* [Overview](introduction/overview/README.md)
+  * [Curriculum Overview](introduction/overview/curriculum-overview.md)
+  * [Syllabus](introduction/overview/syllabus.md)
+  * [Standards](introduction/overview/standards.md)
+  * [Master Vocabulary](introduction/overview/master-vocabulary.md)
 
 ## identity
 

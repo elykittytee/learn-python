@@ -33,7 +33,7 @@ What is provided:
 
 All markdown is available via GitHub Repository [here](https://github.com/elykittytee/learn-python).
 
-_I will not post or share personally created answer keys, starter code, or code solutions publicly or share them with those who request. The instructor is required to adapt and practice the examples for usage in their classrooms._
+_I will not post or share personally created answer keys, starter code, or code solutions publicly or share them with those who request. It is the instructor's responsibility to adapt and practice the examples for usage in their classrooms._
 
 </details>
 
