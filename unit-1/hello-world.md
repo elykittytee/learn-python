@@ -1,16 +1,16 @@
 ---
-description: Interactive Mode
+description: Set Up
 ---
 
-# 1.02
+# Hello World
 
 
 
 {% tabs %}
 {% tab title="Objectives" %}
-* Define and identify: interpreter, string, integer, float, value, errors, console, expression
-* Use the Python interpreter to evaluate simple math expressions
-* Distinguish between an integer, float, and string
+* Define and identify: **IDE**, **Python**.
+* Identify the key concepts that will be covered in the course.
+* Save and turn in a file.
 
 #### Key Terms
 
@@ -41,11 +41,11 @@ description: Interactive Mode
 {% endtab %}
 
 {% tab title="Lesson.md" %}
-### Lesson 1.01: Set Up - Student Directions
-
+{% hint style="warning" %}
 Please copy the below into the `instructions.md file`
+{% endhint %}
 
-#### Learning Objectives
+## Learning Objectives
 
 Students will be able to...
 
@@ -53,7 +53,7 @@ Students will be able to...
 * Identify the key concepts that will be covered in the course.
 * Save and turn in a file.
 
-#### Python/IDE Intro
+### Python/IDE Intro
 
 **Introduce Python**
 
@@ -111,5 +111,24 @@ print('This is not a comment. This will show and be run as Python code.')
 
 ### END ###
 ```
+{% endtab %}
+
+{% tab title="Instructor's Notes" %}
+{% hint style="info" %}
+These are suggestions on how to encourage student activity and subsequent discussion.&#x20;
+
+Feel free to adapt to your own classroom.
+{% endhint %}
+
+## Python/IDE Intro
+
+* [ ] Introduce Python, what it means, what it can be used for
+* [ ] Have everyone observe the code. Encourage new coders to make sense of it.
+  * [ ] Introduce `comments`
+  * [ ] Have the students add a comment of their observations into `main.py`
+* [ ] &#x20; Introduce the parts of `IDE`
+* [ ] Run the `hello world` program
+  * [ ] Copy the program code from Python/`IDE` Intro above into the `IDE`
+  * [ ] Talk about it. No, really.
 {% endtab %}
 {% endtabs %}

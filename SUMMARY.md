@@ -6,10 +6,10 @@
 
 * [About](introduction/about.md)
 * [Overview](introduction/overview/README.md)
-  * [Curriculum Overview](introduction/overview/curriculum-overview.md)
+  * [Curriculum Overview](introduction/curriculum-overview.md)
   * [Syllabus](introduction/overview/syllabus.md)
-  * [Standards](introduction/overview/standards.md)
-  * [Master Vocabulary](introduction/overview/master-vocabulary.md)
+  * [Standards](introduction/standards.md)
+  * [Master Vocabulary](introduction/master-vocabulary.md)
 
 ## identity
 
@@ -21,8 +21,8 @@
 ## Unit 1
 
 * [Overview - Unit 1](unit-1/overview-unit-1.md)
-* [1.01](unit-1/1.01.md)
-* [1.02](unit-1/1.02.md)
+* [Hello World](unit-1/hello-world.md)
+* [Interacting with the Interpreter/Console](unit-1/interacting-with-the-interpreter-console.md)
 * [1.03](unit-1/1.03.md)
 * [1.04](unit-1/1.04.md)
 * [1.05](unit-1/1.05.md)
