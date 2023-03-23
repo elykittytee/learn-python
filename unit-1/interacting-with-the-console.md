@@ -1,8 +1,8 @@
-# Interacting with the Interpreter/Console
+# Interacting with the Console
 
 {% tabs %}
 {% tab title="Objectives" %}
-* efine and identify: **interpreter**, **string**, **integer**, **float**, **value**, **errors**, **console**, **expression**
+* Define and identify: **interpreter**, **string**, **integer**, **float**, **value**, **errors**, **console**, **expression**
 * Use the Python interpreter to evaluate simple math expressions
 * Distinguish between an integer, float, and string
 
@@ -38,16 +38,6 @@
 {% hint style="info" %}
 Please copy the below into the `instruction.md` markdown file
 {% endhint %}
-
-## Learning objectives
-
-Students will be able to...
-
-* Define and identify: **interpreter, string, integer, float, value, errors, console, expression**.
-* Use the Python interpreter to evaluate simple math expressions.
-* Distinguish between an integer, float, and string.
-
-###
 
 ### Do Now - Review
 
@@ -100,7 +90,7 @@ Record your answers to the following discussion questions as a Python `comment`
 
 {% tab title="main.py" %}
 ```python
-# Interacting with the Interpreter/Console
+# Interacting with the Console
 
 ### Lab - Part 1 ###----------------------------------
 # Section 1
@@ -134,10 +124,6 @@ Record your answers to the following discussion questions as a Python `comment`
 {% endtab %}
 
 {% tab title="Lab" %}
-## Lab 1.02 - Using the Interpreter
-
-
-
 ### Part 1
 
 Using the `console`, type in the expressions below. _The console will not save your work._

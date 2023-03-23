@@ -20,10 +20,11 @@
 
 ## Unit 1
 
-* [Overview - Unit 1](unit-1/overview-unit-1.md)
-* [Hello World](unit-1/hello-world.md)
-* [Interacting with the Interpreter/Console](unit-1/interacting-with-the-interpreter-console.md)
-* [1.03](unit-1/1.03.md)
+* [Overview - Unit 1](unit-1/overview-unit-1/README.md)
+  * [for the Instructor](unit-1/overview-unit-1/for-the-instructor.md)
+* [Hello World](unit-1/1.01.md)
+* [Interacting with the Console](unit-1/interacting-with-the-console.md)
+* [Printing & Variables](unit-1/printing-and-variables.md)
 * [1.04](unit-1/1.04.md)
 * [1.05](unit-1/1.05.md)
 * [1.06](unit-1/1.06.md)
