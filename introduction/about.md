@@ -1,18 +1,10 @@
 # About
 
-<details>
+This course is an adaptation of the [**Microsoft TEALS Introduction to Computer Science Curriculum: Second Semester - Python**](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science)**\*** and is written for a wide range of students with diverse computer science backgrounds.&#x20;
 
-<summary>Disclaimer</summary>
-
-Please find the original github repository here: [link](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science).
-
-I do not claim ownership or original authorship of this curriculum.
-
-The original GitBook has been deprecated after the 2019-2020 school year. The original curriculum was intended for use by Microsoft TEALS in classrooms teaching Intro to Computer Science in a year long format. This document only utilizes the second semester.
+\*The original GitBook has been deprecated after the 2019-2020 school year. The original curriculum was intended for use by Microsoft TEALS in classrooms teaching Intro to Computer Science in a year long format. This document only utilizes the second semester.
 
 Additionally, this curriculum is licensed under the [Creative Commons Attribution Non-Commercial Share-alike License](https://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.
-
-</details>
 
 <details>
 
