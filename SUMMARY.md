@@ -9,6 +9,7 @@
   * [Curriculum Overview](introduction/curriculum-overview.md)
   * [Syllabus](introduction/overview/syllabus.md)
   * [Standards](introduction/standards.md)
+  * [\*Standards](introduction/overview/standards-1.md)
   * [Master Vocabulary](introduction/master-vocabulary.md)
 
 ## identity
@@ -28,6 +29,14 @@
 * [1.04](unit-1/1.04.md)
 * [1.05](unit-1/1.05.md)
 * [1.06](unit-1/1.06.md)
+
+## Project Assessments
+
+* [Overview - Unit 1](project-assessments/overview-unit-1/README.md)
+  * [for the Instructor](project-assessments/overview-unit-1/for-the-instructor.md)
+* [Calculator Porject](project-assessments/calculator-porject.md)
+* [Interacting with the Console](project-assessments/interacting-with-the-console.md)
+* [Printing & Variables](project-assessments/printing-and-variables.md)
 
 ## Components
 
